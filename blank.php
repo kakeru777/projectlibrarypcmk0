@@ -24,13 +24,13 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Perpustakaan</a> 
+                <a class="navbar-brand" href="index.html">Perpustakaan</a>
             </div>
 			 <div style="color: white;
 			padding: 15px 50px 5px 50px;
 			float: right;
-			font-size: 16px;"> [Last access : 30 May 2014] $time <a href="login.html" class="btn btn-danger square-btn-adjust">Logout</a> </div>  
-      </nav>   
+			font-size: 16px;"> [Last access : 31 May 2014] $time <a href="login.html" class="btn btn-danger square-btn-adjust">Logout</a> </div>  
+      </nav>
            <!-- /. NAV TOP  -->
                 <nav class="navbar-default navbar-side" role="navigation">
             <div class="sidebar-collapse">
@@ -38,9 +38,9 @@
 				<li class="text-center">
                     <img src="assets/img/find_user.png" class="user-image img-responsive"/>
 					</li>
- 
-		
-					
+
+
+
                     <li>
                         <a  href="?page=buku"><i class="fa fa-home fa-3x"></i> Home</a>
                     </li>
@@ -52,25 +52,25 @@
                     </li>
 						   <li  >
                         <a  href="chart.html"><i class="fa fa-bookmark-o fa-3x"></i>Pengembalian Buku</a>
-                    </li>	
+                    </li>
                       <li  >
                         <a  href="table.html"><i class="fa fa-credit-card fa-3x"></i>Cetak Kartu Anggota</a>
                     </li>
                     <li  >
                         <a  href="form.html"><i class="fa fa-book fa-3x"></i>Buku </a>
-                    </li>				
+                    </li>
 					<li  >
                         <a   href="login.html"><i class="fa fa-bolt fa-3x"></i>Pengaturan</a>
-                    </li>	
+                    </li>
                      <li  >
                         <a   href="registeration.html"><i class="fa fa-info-circle fa-3x"></i>About</a>
-                    </li>	                  
-                      </li>  
+                    </li>
+                      </li>
                 </ul>
-               
+
             </div>
-            
-        </nav>  
+
+        </nav>
         <!-- /. NAV SIDE  -->
         <div id="page-wrapper" >
             <div id="page-inner">
@@ -85,15 +85,15 @@
 						 }
 					 }
 					 ?>
-					 
-					 
-					 
-                       
+
+
+
+
                     </div>
                 </div>
                  <!-- /. ROW  -->
                  <hr />
-               
+
     </div>
              <!-- /. PAGE INNER  -->
             </div>
@@ -109,7 +109,7 @@
     <script src="assets/js/jquery.metisMenu.js"></script>
       <!-- CUSTOM SCRIPTS -->
     <script src="assets/js/custom.js"></script>
-    
-   
+
+
 </body>
 </html>
