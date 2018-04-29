@@ -29,7 +29,7 @@
 			 <div style="color: white;
 			padding: 15px 50px 5px 50px;
 			float: right;
-			font-size: 16px;"> [Last access : 31 May 2014] $time <a href="login.html" class="btn btn-danger square-btn-adjust">Logout</a> </div>
+			font-size: 16px;"> [Last access : 30 May 2014] $time <a href="login.html" class="btn btn-danger square-btn-adjust">Logout</a> </div>
       </nav>
            <!-- /. NAV TOP  -->
                 <nav class="navbar-default navbar-side" role="navigation">
