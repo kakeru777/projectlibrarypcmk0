@@ -77,6 +77,7 @@
                 <div class="row">
                     <div class="col-md-12">
                      <?php
+					 echo("hello world");
 					 $page = $_GET['page'];
 				//	 $aksi = $_GET['aksi'];
 					 if($page == "buku"){
