@@ -14,6 +14,7 @@
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 </head>
 <body>
+     
 
     <div id="wrapper">
         <nav class="navbar navbar-default navbar-cls-top " role="navigation" style="margin-bottom: 0">
@@ -29,7 +30,7 @@
 			 <div style="color: white;
 			padding: 15px 50px 5px 50px;
 			float: right;
-			font-size: 16px;"> [Last access : 30 May 2014] $time <a href="login.html" class="btn btn-danger square-btn-adjust">Logout</a> </div>
+			font-size: 16px;"> [Last access : 31 May 2014] $time <a href="login.html" class="btn btn-danger square-btn-adjust">Logout</a> </div>
       </nav>
            <!-- /. NAV TOP  -->
                 <nav class="navbar-default navbar-side" role="navigation">
@@ -109,6 +110,7 @@
     <script src="assets/js/jquery.metisMenu.js"></script>
       <!-- CUSTOM SCRIPTS -->
     <script src="assets/js/custom.js"></script>
+
 
 
 </body>
