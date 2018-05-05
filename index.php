@@ -14,7 +14,7 @@
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 </head>
 <body>
-     
+
 
     <div id="wrapper">
         <nav class="navbar navbar-default navbar-cls-top " role="navigation" style="margin-bottom: 0">
@@ -51,7 +51,6 @@
                     <li>
                         <a  href="tab-panel.html"><i class="fa fa-bookmark-o fa-3x"></i>Pinjam Buku</a>
                     </li>
-						   <li  >
                         <a  href="chart.html"><i class="fa fa-bookmark-o fa-3x"></i>Pengembalian Buku</a>
                     </li>
                       <li  >
@@ -68,6 +67,7 @@
                     </li>
                       </li>
                 </ul>
+                <li  >
 
             </div>
 
